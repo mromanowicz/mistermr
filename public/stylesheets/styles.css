@@ -65,6 +65,15 @@ h4{font-size:275%;line-height:1;letter-spacing:-0.03em;margin-bottom:.4em;color:
 
 .section p{-webkit-hyphens:auto;-moz-hyphens:auto;hyphens:auto}
 
+.full-width-module {
+  position: absolute;
+  width: 100%;
+  min-height: 30px;
+  left: 0;
+  background: url('/images/diamond.jpg') no-repeat center;
+  background-color: grey;
+  background-size: 30px;
+}
 #nav{z-index:1;font-family:"proxima-nova-extra-condensed",sans-serif}
 #nav,#nav *{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}
 #nav,#nav ul{margin:0;padding:0;list-style:none;width:100%;float:left}@media screen and (min-width:46.25em){#nav,#nav ul{text-align:center}}#nav li{float:left;width:100%;display:block}@media screen and (min-width:46.25em){#nav li{float:none;display:inline-block;*display:block;*float:left;width:auto;margin-left:.4em;margin-right:.2em}}#nav a{font-weight:400;font-size:112.5%;letter-spacing:2px;color:white;text-decoration:none;width:100%;background:#f43c12;border-bottom:1px solid white;padding:.5em 1em;float:left}
