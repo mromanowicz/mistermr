@@ -1,19 +1,9 @@
-# mrmr
+# mistermr
 
-FIXME
+Mister Mr helps you build better products. We're a User Experience & Product Design studio based in New York City. We bring to bear empathy, business insight, and design execution to deliver experiences so good that they're invisible.
 
-## Prerequisites
 
-You will need [Leiningen][1] 1.7.0 or above installed.
+## Website
 
-[1]: https://github.com/technomancy/leiningen
+See: [Mister Mr](http://www.mistermr.com/)
 
-## Running
-
-To start a web server for the application, run:
-
-    lein ring server
-
-## License
-
-Copyright © 2013 FIXME
